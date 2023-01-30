@@ -12,7 +12,7 @@ export default function index() {
       >
         <Flex
           justifyContent={"space-between"}
-          width={{ base: "250px", md:"750px", lg: "1058.71px" }}
+          width={{ base: "300px", md: "750px", lg: "1058.71px" }}
           align={"center"}
         >
           <Flex
@@ -59,7 +59,7 @@ export default function index() {
             Reciever Wallet Address
           </Text>
           <Input
-            width={["200px", "200px", "484px"]}
+            width={["270px", "270px", "484px"]}
             height={["40px", "40px", "50px"]}
             border={"1px solid rgba(255, 255, 255, 0.2)"}
             borderRadius={"7px"}
@@ -75,7 +75,7 @@ export default function index() {
             Enter Amount
           </Text>
           <Input
-            width={["200px", "200px", "484px"]}
+            width={["270px", "270px", "484px"]}
             height={["40px", "40px", "50px"]}
             border={"1px solid rgba(255, 255, 255, 0.2)"}
             borderRadius={"7px"}
@@ -87,7 +87,7 @@ export default function index() {
           />
         </Flex>
         <Flex
-          width={["200px", "200px", "484px"]}
+          width={["270px", "270px", "484px"]}
           height={["40px", "40px", "50px"]}
           border={" 1px solid rgba(255, 255, 255, 0.2)"}
           borderRadius={"7px"}
